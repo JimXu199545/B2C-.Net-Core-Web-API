@@ -1,0 +1,19 @@
+<html>
+<head>
+  <title>Azure AD B2C API Sample</title>
+  </head>
+<body>
+Your API will now be available via http://localhost:5000/api/Values
+
+Obtain a token by signing in <a href="https://testb2ctenant05.b2clogin.com/testb2ctenant05.onmicrosoft.com/b2c_1_test/oauth2/v2.0/authorize?response_type=token&scope=https://testB2CTenant05.onmicrosoft.com/api/Hello.Read openid profile&client_id=5a8d8fab-253c-4f45-b1fc-0b8a6aaddf36&redirect_uri=https://jwt.ms&state=bd3c174c-8787-4ea9-8139-8149609b1b32&nonce=b9263cc9-2ced-41ae-842d-f37efd434c5e&prompt=login" target="_blank">here.</a>
+<br/>
+<br/>
+Try it out via curl using the comand below.
+Make sure your replace [TOKEN] with the token obtained from the link above.
+<br/>
+<i>curl http://localhost:5000/api/Values -i --header "Authorization: Bearer <b>[TOKEN]</b>"</i>
+<br/>
+<br/>
+Note: Port will vary depending on whether you run via Visual Studio or <i>"dotnet run"</i> (port 5000)
+</body>
+</html>

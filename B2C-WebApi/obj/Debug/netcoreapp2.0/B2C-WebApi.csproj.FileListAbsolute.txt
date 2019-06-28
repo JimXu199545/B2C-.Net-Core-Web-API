@@ -1,0 +1,12 @@
+E:\project\webapi with MSAL.js-B2C\active-directory-b2c-dotnetcore-webapi\B2C-WebApi\bin\Debug\netcoreapp2.0\B2C-WebApi.deps.json
+E:\project\webapi with MSAL.js-B2C\active-directory-b2c-dotnetcore-webapi\B2C-WebApi\bin\Debug\netcoreapp2.0\B2C-WebApi.runtimeconfig.json
+E:\project\webapi with MSAL.js-B2C\active-directory-b2c-dotnetcore-webapi\B2C-WebApi\bin\Debug\netcoreapp2.0\B2C-WebApi.runtimeconfig.dev.json
+E:\project\webapi with MSAL.js-B2C\active-directory-b2c-dotnetcore-webapi\B2C-WebApi\bin\Debug\netcoreapp2.0\B2C-WebApi.dll
+E:\project\webapi with MSAL.js-B2C\active-directory-b2c-dotnetcore-webapi\B2C-WebApi\bin\Debug\netcoreapp2.0\B2C-WebApi.pdb
+E:\project\webapi with MSAL.js-B2C\active-directory-b2c-dotnetcore-webapi\B2C-WebApi\obj\Debug\netcoreapp2.0\B2C-WebApi.csprojAssemblyReference.cache
+E:\project\webapi with MSAL.js-B2C\active-directory-b2c-dotnetcore-webapi\B2C-WebApi\obj\Debug\netcoreapp2.0\B2C-WebApi.csproj.CoreCompileInputs.cache
+E:\project\webapi with MSAL.js-B2C\active-directory-b2c-dotnetcore-webapi\B2C-WebApi\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\project\webapi with MSAL.js-B2C\active-directory-b2c-dotnetcore-webapi\B2C-WebApi\obj\Debug\netcoreapp2.0\B2C-WebApi.AssemblyInfoInputs.cache
+E:\project\webapi with MSAL.js-B2C\active-directory-b2c-dotnetcore-webapi\B2C-WebApi\obj\Debug\netcoreapp2.0\B2C-WebApi.AssemblyInfo.cs
+E:\project\webapi with MSAL.js-B2C\active-directory-b2c-dotnetcore-webapi\B2C-WebApi\obj\Debug\netcoreapp2.0\B2C-WebApi.dll
+E:\project\webapi with MSAL.js-B2C\active-directory-b2c-dotnetcore-webapi\B2C-WebApi\obj\Debug\netcoreapp2.0\B2C-WebApi.pdb
